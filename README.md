@@ -7,6 +7,8 @@ The housing market is subject to the same economic laws of supply and demand as 
 
 ## Link to Dashboard
 
+The Viz of the dataset can be viewed [here.](https://public.tableau.com/app/profile/neeraja.v6475/viz/HousePricesDistribution/HousePricesDistribution)
+
 ## Technologies and Tools Used
 
 * ![](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
