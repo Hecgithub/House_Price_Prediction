@@ -19,9 +19,24 @@ The housing market is subject to the same economic laws of supply and demand as 
 
 * [![](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
 
+For our database, we will be using PostgreSQL for data storage, processing, retrieval, and analysis to support finding insights from our Houston Houses Merged Data.
+
 ## Resources/Data Sources
 
 Source Data has been extracted from https://rapidapi.com/apimaker/api/zillow-com1
+
+#### Zillow.com API Documentation (apimaker) | RapidAPI
+
+Unofficial API. US and CA real-time real estate data. Search by coordinates and MLS. Get similar properties for sale or sold property, Zestimate (rent estimate) and other data from Zillow. This site allows us to explore and extract data from two APIs endpoints:
+Property details
+Property Extended Search
+
+## Questions We Would Like to Answer
+
+* Does year-built affect property value?
+* What home feature decreases the property value?
+* What home feature raises property value the most?
+* School quality/ranking have an impact in property value?
 
 ## Data Preprocessing
 
