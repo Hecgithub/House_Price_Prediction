@@ -53,6 +53,13 @@ Pandas library is used to perform the data manipulation in Python. Pandas librar
 
 ## Implementing machine learning model(s)
 
+For this analysis, we used three different machine learning models, which are Linear Regression, Random Forest, and XGBRegressor. In comparing the three models, the XGB Regressor model was far more accurate. The model had a 0.75% accuracy in predicting the house prices in the Huston, Texas, area. The top four features of importance are constructed area, lot area sqft, zip code, and year built.
+
+Machine learning is an iterative process. This first round of data exploration and model evaluation was an excellent start to gain insights quickly and get a reasonably good model prototype. This dataset has much structure, and further work is required to build a high-performing prediction model.
+
+![image](https://user-images.githubusercontent.com/110510718/210690711-f92b45c7-96d5-4d60-8efe-1cee33e03f05.png)
+
+
 ## Results of Analysis
 
 ## Project Summary
