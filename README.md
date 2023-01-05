@@ -25,9 +25,6 @@ For effective peer-to-peer communication, slack was used for team channel creati
 
 ## Database
 
-Pandas library is used to perform the data manipulation in Python. Pandas library is extremely powerful and helped us to simplify data cleaning tasks like data inspection, data fill, loading and saving data, mergers and join, duplicate, import data and much more.
-
-
 * ![](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge)
 
 PostgreSQL is used for data storage, processing, retrieval, and analysis to support finding insights from our Houston Houses Merged Data.
@@ -50,6 +47,9 @@ Unofficial API. US and CA real-time real estate data. Search by coordinates and 
 * School quality/ranking have an impact in property value?
 
 ## Data Preprocessing
+
+Pandas library is used to perform the data manipulation in Python. Pandas library is extremely powerful and helped us to simplify data cleaning tasks like data inspection, data fill, loading and saving data, mergers and join, duplicate, import data and much more.
+
 
 ## Implementing machine learning model(s)
 
