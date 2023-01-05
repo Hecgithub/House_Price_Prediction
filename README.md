@@ -7,6 +7,8 @@ The housing market is subject to the same economic laws of supply and demand as 
 
 ## Link to Dashboard 
 
+We created a dashboard using HTML and CSS to display project overview and visualization via Tableau from data collected in PostgreSQL
+
 The Viz of the dataset can be viewed [here.](https://public.tableau.com/app/profile/neeraja.v6475/viz/HousePricesDistribution/HousePricesDistribution)
 
 ## Communication Protocols :phone:
@@ -45,6 +47,9 @@ Unofficial API. US and CA real-time real estate data. Search by coordinates and 
 * School quality/ranking have an impact in property value?
 
 ## Data Preprocessing
+
+Pandas library is used to perform the data manipulation in Python. Pandas library is extremely powerful and helped us to simplify data cleaning tasks like data inspection, data fill, loading and saving data, mergers and join, duplicate, import data and much more.
+
 
 ## Implementing machine learning model(s)
 
