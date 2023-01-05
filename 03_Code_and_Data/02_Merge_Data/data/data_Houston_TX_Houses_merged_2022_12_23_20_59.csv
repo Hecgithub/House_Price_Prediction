@@ -1,0 +1,81 @@
+Page,Item,zid,State,City,Number,Street,zipCode,Lat,Lng,Price,Image,Bedrooms,Bathrooms,Status,daysOnSale
+1,1,27545693,TX,Houston,16731,Sussex Dr,77083,29.68,-95.68,300500,https://photos.zillowstatic.com/fp/91948f0675506eec235bed3e0e68059d-p_e.jpg,4,3,FOR_SALE,-1
+1,2,28369158,TX,Houston,2811,,77339,30.08,-95.21,301000,https://photos.zillowstatic.com/fp/1f5a3fc0434b82448e61c5be39d71eac-p_e.jpg,4,3,FOR_SALE,-1
+1,3,2061091836,TX,Houston,12815,Tokenhouse Ln,77047,29.62,-95.37,301465,https://photos.zillowstatic.com/fp/2e6c37eb67df3ebe9efe9dcc881a7340-p_e.jpg,3,2,FOR_SALE,-1
+1,4,28035101,TX,Houston,6010,Benning Dr,77096,29.66,-95.5,303000,https://photos.zillowstatic.com/fp/bf2f91bc9321abe4a6e70ad2903194ff-p_e.jpg,3,2,FOR_SALE,-1
+1,5,70311881,TX,Houston,13914,Littleborne Birdwell Ln,77047,29.61,-95.36,303000,https://photos.zillowstatic.com/fp/b65e1fb678200827d6efe0b079751cd7-p_e.jpg,4,3,FOR_SALE,-1
+1,6,2062276322,TX,Houston,10134,Clearwick St,77034,29.62,-95.21,303490,https://photos.zillowstatic.com/fp/5ddfb15d1b3916061b351562f6e2531f-p_e.jpg,4,3,FOR_SALE,-1
+1,7,27888692,TX,Houston,408,Robert Lee Rd,77009,29.81,-95.37,304000,https://photos.zillowstatic.com/fp/8915195333b9c676d7b76acc4d07abbb-p_e.jpg,2,1,FOR_SALE,-1
+1,8,28101005,TX,Houston,2523,Kevin Ln,77043,29.82,-95.55,304000,https://photos.zillowstatic.com/fp/26e289fea8dba6f742e56fb025bb0e90-p_e.jpg,3,2,FOR_SALE,-1
+1,9,2066400939,TX,Houston,7302,Hobby Wind Ridge Dr,77075,29.62,-95.29,304880,https://photos.zillowstatic.com/fp/8e053479c8434b1ccf8ade1ab4e0e4ef-p_e.jpg,4,3,FOR_SALE,-1
+1,10,112165644,TX,Houston,13711,Canyon Hollow Loop,77083,29.69,-95.63,304900,https://photos.zillowstatic.com/fp/c393118e206e3584a875bc0a7f23b88b-p_e.jpg,3,2,FOR_SALE,-1
+1,11,28460978,TX,Houston,11223,Travelers Way Ln,77065,29.91,-95.59,304900,https://photos.zillowstatic.com/fp/659176088b9b1b4f022d0bddc802bbc4-p_e.jpg,4,3,FOR_SALE,-1
+1,12,338058418,TX,Houston,2138,Wavell St,77088,29.88,-95.44,304900,https://photos.zillowstatic.com/fp/8dce25b0b9fa4fe09772cd1b8cc96dc6-p_e.jpg,3,3,FOR_SALE,-1
+1,13,28238877,TX,Houston,3618,Fernglade Dr,77068,30,-95.49,304990,https://photos.zillowstatic.com/fp/f5bd522d9839dadef8aed9782cacb904-p_e.jpg,4,2,FOR_SALE,-1
+1,14,2061725572,TX,Houston,238,Julia St #C,77022,,,304999,https://photos.zillowstatic.com/fp/04685d37fa419dadf7177bdb8ff30579-p_e.jpg,3,3,FOR_SALE,-1
+1,15,121102186,TX,Houston,3623,Zephyr Glen Way,77084,29.82,-95.68,305000,https://photos.zillowstatic.com/fp/6c719ac76d51f779ee41c0319513e465-p_e.jpg,4,3,FOR_SALE,-1
+1,16,126250894,TX,Houston,2514,Lee St,77026,29.78,-95.34,305000,https://photos.zillowstatic.com/fp/c7d8c56baa6d065aa86d7d7973f328fd-p_e.jpg,3,2,FOR_SALE,-1
+1,17,2061000338,TX,Houston,7712,Beckley St,77088,29.87,-95.44,305000,https://photos.zillowstatic.com/fp/20e6e9cef3d4008803863927c65c660b-p_e.jpg,3,3,FOR_SALE,-1
+1,18,2061569097,TX,Houston,7714,Beckley St,77088,29.87,-95.44,305000,https://photos.zillowstatic.com/fp/817c20725ee014644ab32d66815575fc-p_e.jpg,3,3,FOR_SALE,-1
+1,19,27787537,TX,Houston,3343,Anita St,77004,29.73,-95.35,305000,https://photos.zillowstatic.com/fp/9f8d5614ee7afad168d41996fb352bef-p_e.jpg,4,1,FOR_SALE,-1
+1,20,27869312,TX,Houston,7705,Edna St,77087,29.68,-95.29,305000,https://photos.zillowstatic.com/fp/f7d17f4d3cfad37fc61c3eea16b174ac-p_e.jpg,5,3,FOR_SALE,-1
+1,21,28144479,TX,Houston,911,Burnwood Ln,77073,30.03,-95.42,305000,https://photos.zillowstatic.com/fp/6d43d1cdff6cf1150fb9fbbd4532bee4-p_e.jpg,4,3,FOR_SALE,-1
+1,22,28246991,TX,Houston,1826,,77339,30.06,-95.23,305000,https://photos.zillowstatic.com/fp/5da5ba210b96d230cd7737fd3e0d91c4-p_e.jpg,4,2,FOR_SALE,-1
+1,23,28414146,TX,Houston,5014,Kleinbrook Dr,77066,29.96,-95.49,305000,https://photos.zillowstatic.com/fp/87383517f4713297b77200dbc21db0dd-p_e.jpg,3,3,FOR_SALE,-1
+1,24,63350134,TX,Houston,17415,Prospect Meadows Dr,77095,29.93,-95.68,305000,https://photos.zillowstatic.com/fp/0a7838c7c03b51a64fe9ba2a98ad1e59-p_e.jpg,4,3,FOR_SALE,-1
+1,25,70317174,TX,Houston,13911,Spring Mountain Ct,77044,29.92,-95.16,305000,https://photos.zillowstatic.com/fp/aed47cb7e43c07a95330a3fc7903b78b-p_e.jpg,3,2,FOR_SALE,-1
+1,26,89646124,TX,Houston,11723,Cabot Hill St,77044,29.89,-95.21,305000,https://photos.zillowstatic.com/fp/715f1c05f76dd16d8faa10e774419114-p_e.jpg,4,3,FOR_SALE,-1
+1,27,97656738,TX,Houston,6438,Saragosa Crossing Ln,77066,29.96,-95.52,305000,https://photos.zillowstatic.com/fp/1f9827a55558c0e2cbad50b901b46fc7-p_e.jpg,4,3,FOR_SALE,-1
+1,28,2062427088,TX,Houston,11831,Beachberry Dr,77034,29.63,-95.21,306295,https://photos.zillowstatic.com/fp/d646080e1d6b6026c27281ca731402a9-p_e.jpg,3,2,FOR_SALE,-1
+1,29,121109749,TX,Houston,2212,Abernathy St,77026,29.78,-95.33,307000,https://photos.zillowstatic.com/fp/42fe53a41ce922798a626b999ad3d889-p_e.jpg,3,3,FOR_SALE,-1
+1,30,121116753,TX,Houston,2204,Abernathy St,77026,29.78,-95.33,307000,https://photos.zillowstatic.com/fp/bfae28af5cdd12e64c2922761bb4abb5-p_e.jpg,3,3,FOR_SALE,-1
+1,31,2060915842,TX,Houston,8407,Observatory St,77088,29.88,-95.45,307000,https://photos.zillowstatic.com/fp/ddee8fefccba88ca87b975a12fa76742-p_e.jpg,3,2,FOR_SALE,-1
+1,32,28155499,TX,Houston,755,Seamaster Dr,77062,29.56,-95.13,307000,https://photos.zillowstatic.com/fp/3a1f4ba41a224ecf3956171b4817f61f-p_e.jpg,4,2,FOR_SALE,-1
+1,33,28426143,TX,Houston,15707,Meadow Village Dr,77095,29.9,-95.64,307000,https://photos.zillowstatic.com/fp/623cc0f94eb4f468ab6a4d0dff85de73-p_e.jpg,4,2,FOR_SALE,-1
+1,34,337092721,TX,Houston,2511,Winding Hawthorn Ct,77038,29.9,-95.45,307000,https://photos.zillowstatic.com/fp/94174622c647ec62bc1812a6411b34bb-p_e.jpg,3,3,FOR_SALE,-1
+1,35,2062276315,TX,Houston,10138,Clearwick St,77034,29.62,-95.21,307130,https://photos.zillowstatic.com/fp/dfe0a39b3ea6ca66fa12c11aca4ffb74-p_e.jpg,4,3,FOR_SALE,-1
+1,36,62567030,TX,Houston,15255,Weeping Cedar Ln,77084,29.87,-95.64,307700,https://photos.zillowstatic.com/fp/3bfb963910a5d99f81ae7e71582afe2f-p_e.jpg,6,3,FOR_SALE,-1
+1,37,28275076,TX,Houston,15210,River Park Dr,77070,30,-95.6,307777,https://photos.zillowstatic.com/fp/1da06021627cc08b1d03fa19c724cc75-p_e.jpg,3,3,FOR_SALE,-1
+1,38,2066400913,TX,Houston,7312,Concorde Field Dr,77075,29.64,-95.26,307970,https://photos.zillowstatic.com/fp/01af9fe2fab62ab9bf3528f4a92ac627-p_e.jpg,4,3,FOR_SALE,-1
+1,39,28086680,TX,Houston,5734,N Braeswood Blvd,77096,29.68,-95.49,308000,https://photos.zillowstatic.com/fp/33e0a0bc920c9c0e4181c7f13160bc40-p_e.jpg,4,2,FOR_SALE,-1
+1,40,2062545166,TX,Houston,11906,Blue Crab Ln,77034,29.63,-95.21,308815,https://photos.zillowstatic.com/fp/dd768c401df4f906dc4921e03bcc493b-p_e.jpg,3,3,FOR_SALE,-1
+2,1,27853008,TX,Houston,600,E 40th 1/2 St,77022,29.82,-95.39,309000,https://photos.zillowstatic.com/fp/819785428f53948510c2c49d266bf256-p_e.jpg,3,2,FOR_SALE,-1
+2,2,28078321,TX,Houston,6215,Great Oaks Dr,77050,29.9,-95.3,309000,https://photos.zillowstatic.com/fp/61a6e89f54bc0342ef13fe567b5397c5-p_e.jpg,4,3,FOR_SALE,-1
+2,3,28150303,TX,Houston,5930,Lodge Creek Dr,77066,29.97,-95.52,309000,https://photos.zillowstatic.com/fp/522c7c7af336de393745d65ecee1d1fc-p_e.jpg,5,5,FOR_SALE,-1
+2,4,28377473,TX,Houston,14822,James River Ln,77084,29.87,-95.63,309000,https://photos.zillowstatic.com/fp/c3f1f3e01c791f3d82db9b691dc85f62-p_e.jpg,4,3,FOR_SALE,-1
+2,5,28444756,TX,Houston,12006,Hadley Falls Ct,77067,29.96,-95.45,309000,https://photos.zillowstatic.com/fp/a7fd0fca1de24c951c0bc026ae6c346e-p_e.jpg,3,2,FOR_SALE,-1
+2,6,305342657,TX,Houston,5039,Azalea Trace Dr,77066,29.96,-95.49,309000,https://photos.zillowstatic.com/fp/8fc4070f1e53bd79ad16ffe72b696442-p_e.jpg,4,3,FOR_SALE,-1
+2,7,54638506,TX,Houston,16302,Lynn Crest Ct,77083,29.68,-95.67,309000,https://photos.zillowstatic.com/fp/f3e888065b308d79d5e8b6c791c36bd0-p_e.jpg,4,3,FOR_SALE,-1
+2,8,62567434,TX,Houston,3119,Palace Oaks Dr,77082,29.72,-95.66,309000,https://photos.zillowstatic.com/fp/820cd0229777e939f2e9539eef977ffd-p_e.jpg,4,3,FOR_SALE,-1
+2,9,161367462,TX,Houston,9026,Saint Laurent Ln,77044,29.86,-95.19,309500,https://photos.zillowstatic.com/fp/f4011d1c546551d6adce557bde3feb74-p_e.jpg,4,3,FOR_SALE,-1
+2,10,28411754,TX,Houston,8623,Humphreys Dr,77083,29.68,-95.62,309500,https://photos.zillowstatic.com/fp/b6c37aaa3ff8f981b270c453b77457bd-p_e.jpg,4,2,FOR_SALE,-1
+2,11,161383997,TX,Houston,10939,E Fall Fern Cir,77044,29.88,-95.14,309900,https://photos.zillowstatic.com/fp/cd5abcbef96f066e3b6b8cf5fbb65393-p_e.jpg,4,3,FOR_SALE,-1
+2,12,27954838,TX,Houston,4009,Nenana Dr,77025,29.67,-95.44,309900,https://photos.zillowstatic.com/fp/ebc1fbaa3b7ae29c8d792f4b32c1a218-p_e.jpg,3,2,FOR_SALE,-1
+2,13,28448299,TX,Houston,3822,,77339,30.06,-95.21,309900,https://photos.zillowstatic.com/fp/9b5d01d90ccf67f2799724561cb8e8eb-p_e.jpg,4,3,FOR_SALE,-1
+2,14,28495334,TX,Houston,14627,Stilesboro Ct,77062,29.58,-95.14,309900,https://photos.zillowstatic.com/fp/fc508d408f198f92d85cc33394045a6d-p_e.jpg,5,3,FOR_SALE,-1
+2,15,28551354,TX,Houston,8210,Morning Dawn Dr,77095,29.9,-95.68,309900,https://photos.zillowstatic.com/fp/df344c8500ec14f857f98a2645d27c7e-p_e.jpg,4,3,FOR_SALE,-1
+2,16,338063928,TX,Houston,1273,Dewalt St,77088,29.88,-95.43,309900,https://photos.zillowstatic.com/fp/16186ff7f6df9892a8ee6d5f2b31f6bb-p_e.jpg,4,2,FOR_SALE,-1
+2,17,70311007,TX,Houston,17611,Dylans Point Ct,77084,29.84,-95.67,309900,https://photos.zillowstatic.com/fp/c7b1d413d9a100941b60e0669bd7e6c5-p_e.jpg,4,2,FOR_SALE,-1
+2,18,80520982,TX,Houston,4915,Ivory Meadows Ln,77084,29.84,-95.67,309900,https://photos.zillowstatic.com/fp/a54e28639acaa81d9b8b6aed1194c1bb-p_e.jpg,3,2,FOR_SALE,-1
+2,19,97663738,TX,Houston,14827,Hillside Woods Ct,77049,29.84,-95.17,309900,https://photos.zillowstatic.com/fp/a06f8c137f3752a4cf897493eaee4c2f-p_e.jpg,5,3,FOR_SALE,-1
+2,20,62587903,TX,Houston,6123,Crown Hill Ln,77084,29.87,-95.66,309990,https://photos.zillowstatic.com/fp/ff5d9781fd61c57085f7dc9428c93f28-p_e.jpg,3,3,FOR_SALE,-1
+2,21,68407359,TX,Houston,3506,Caplin St,77026,29.82,-95.34,309990,https://photos.zillowstatic.com/fp/035385bd55ebb6c40aa0607eb601ba3c-p_e.jpg,5,3,FOR_SALE,-1
+2,22,2060636184,TX,Houston,240,Julia St #F,77022,,,309999,https://photos.zillowstatic.com/fp/04685d37fa419dadf7177bdb8ff30579-p_e.jpg,3,3,FOR_SALE,-1
+2,23,112165122,TX,Houston,3639,Apple Dale Dr,77084,29.82,-95.68,310000,https://photos.zillowstatic.com/fp/46c2f3ba7aa6f09f08a7f82abc311eab-p_e.jpg,4,3,FOR_SALE,-1
+2,24,2060473237,TX,Houston,8415,Sunnyhill St #B,77088,29.88,-95.45,310000,https://photos.zillowstatic.com/fp/46e95ee7b89f29098005ca107b02ef74-p_e.jpg,3,3,FOR_SALE,-1
+2,25,27545374,TX,Houston,6223,Sonoma Way,77053,29.59,-95.48,310000,https://photos.zillowstatic.com/fp/a0f0b991353cc181152f68654c28cfac-p_e.jpg,4,3,FOR_SALE,-1
+2,26,27821365,TX,Houston,1003,Booth St,77009,29.79,-95.36,310000,https://photos.zillowstatic.com/fp/f36e8456f0632245094260f1a5e7f5e0-p_e.jpg,3,3,FOR_SALE,-1
+2,27,27835212,TX,Houston,7221,McHenry St,77087,29.69,-95.3,310000,https://photos.zillowstatic.com/fp/75959eb624acd1b42b699ff95ac1a1c4-p_e.jpg,4,3,FOR_SALE,-1
+2,28,27850543,TX,Houston,2518,Eagle St,77004,29.73,-95.37,310000,https://photos.zillowstatic.com/fp/873aaec76ec536864fe730aaf28d5d6b-p_e.jpg,3,2,FOR_SALE,-1
+2,29,27892758,TX,Houston,9317,Bertwood St,77016,29.85,-95.31,310000,https://photos.zillowstatic.com/fp/03cf05bd05e0273970bf21f4a4ef71e8-p_e.jpg,4,2,FOR_SALE,-1
+2,30,27913212,TX,Houston,2207,Nina Lee Ln,77018,29.83,-95.45,310000,https://photos.zillowstatic.com/fp/58278503701cde9b679d39257af82e6c-p_e.jpg,3,1,FOR_SALE,-1
+2,31,28032819,TX,Houston,6839,Ridgeway Dr,77087,29.67,-95.3,310000,https://photos.zillowstatic.com/fp/33402e75066f126b19f364d694573f0c-p_e.jpg,4,2,FOR_SALE,-1
+2,32,28072230,TX,Houston,9311,Sandstone St,77036,29.7,-95.55,310000,https://photos.zillowstatic.com/fp/5e2075a608063951472b3f946f2414bd-p_e.jpg,4,2,FOR_SALE,-1
+2,33,28164892,TX,Houston,8018,Green Lawn Dr,77088,29.88,-95.48,310000,https://photos.zillowstatic.com/fp/e3b0cfa7a75016e42a07874ed291cdf8-p_e.jpg,4,3,FOR_SALE,-1
+2,34,28172448,TX,Houston,5218,Theall Rd,77066,29.98,-95.5,310000,https://photos.zillowstatic.com/fp/368205a69014e05509ff2b1a10e06321-p_e.jpg,4,5,FOR_SALE,-1
+2,35,28288141,TX,Houston,1930,Pepperwood Ln,77084,29.8,-95.68,310000,https://photos.zillowstatic.com/fp/0609d9164c39b0f3451860b874ed0751-p_e.jpg,4,2,FOR_SALE,-1
+2,36,28371662,TX,Houston,1807,Whiteback Dr,77084,29.79,-95.71,310000,https://photos.zillowstatic.com/fp/c464cbd2fb3ee816cf8f79886467cfa6-p_e.jpg,3,3,FOR_SALE,-1
+2,37,28465399,TX,Houston,6147,Aberton Forest Dr,77084,29.86,-95.67,310000,https://photos.zillowstatic.com/fp/3c6398f88c00770431ca5d35b72d9951-p_e.jpg,4,3,FOR_SALE,-1
+2,38,329227329,TX,Houston,9527,Cardin Ln,77044,29.86,-95.19,310000,https://photos.zillowstatic.com/fp/a17476de8ece3591d605fd881df6d9b8-p_e.jpg,3,2,FOR_SALE,-1
+2,39,329227640,TX,Houston,9611,Cardin Ln,77044,29.86,-95.19,310000,https://photos.zillowstatic.com/fp/f229b4b39cbf73de10e4cdf52f9e9a8d-p_e.jpg,3,2,FOR_SALE,-1
+2,40,329228204,TX,Houston,9607,Cardin Ln,77044,29.86,-95.19,310000,https://photos.zillowstatic.com/fp/94bec96df2cd8fbf17d5c3cc472a793f-p_e.jpg,3,2,FOR_SALE,-1
