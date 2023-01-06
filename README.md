@@ -41,7 +41,8 @@ Unofficial API. US and CA real-time real estate data. Search by coordinates and 
 * Property details
 * Property Extended Search
 
-The code used to gather the data is here: **[link](./03_Code_and_Data/01_Get_Data_w_Property_Details/01_Get_Data_w_Property_Details.ipynb)**
+The code used to gather the data is here: **[link](./03_Code_and_Data/01_Get_Data_w_Property_Details/01_Get_Data_w_Property_Details.ipynb)**.
+
 The data was merged using this code: **[link](./03_Code_and_Data/02_Merge_Data/02_Merge_Data.ipynb)**
 
 ## Questions We Would Like to Answer :memo:
