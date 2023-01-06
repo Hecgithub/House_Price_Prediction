@@ -65,6 +65,8 @@ For this analysis, we used three different machine learning models, which are Li
 
 Machine learning is an iterative process. This first round of data exploration and model evaluation was an excellent start to gain insights quickly and get a reasonably good model prototype. This dataset has much structure, and further work is required to build a high-performing prediction model.
 
+The machine learning model code mockup can be found here: **[link](./ML_House_Prediction_Prices_Updated.ipynb)**
+
 ![image](https://user-images.githubusercontent.com/110510718/210690711-f92b45c7-96d5-4d60-8efe-1cee33e03f05.png)
 
 
