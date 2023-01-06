@@ -29,6 +29,8 @@ For effective peer-to-peer communication, slack was used for team channel creati
 
 PostgreSQL is used for data storage, processing, retrieval, and analysis to support finding insights from our Houston Houses Merged Data.
 
+A mockup of the code to write to the postgres data base can be found here: **[DB link](./03_Code_and_Data/04_Database/04_Database.ipynb)**
+
 ## Resources/Data Sources
 
 Data for analysis has been extracted from [RapidAPI.com](https://rapidapi.com/apimaker/api/zillow-com1)
