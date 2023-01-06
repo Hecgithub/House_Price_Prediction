@@ -29,7 +29,7 @@ For effective peer-to-peer communication, slack was used for team channel creati
 
 PostgreSQL is used for data storage, processing, retrieval, and analysis to support finding insights from our Houston Houses Merged Data.
 
-A mockup of the code to write to the postgres data base can be found here: **[DB link](./03_Code_and_Data/04_Database/04_Database.ipynb)**
+A mockup of the code to write to the postgres data base can be found here: **[link](./03_Code_and_Data/04_Database/04_Database.ipynb)**
 
 ## Resources/Data Sources
 
@@ -41,6 +41,9 @@ Unofficial API. US and CA real-time real estate data. Search by coordinates and 
 * Property details
 * Property Extended Search
 
+The code used to gather the data is here: **[link](./03_Code_and_Data/01_Get_Data_w_Property_Details/01_Get_Data_w_Property_Details.ipynb)**
+The data was merged using this code: **[link](./03_Code_and_Data/02_Merge_Data/02_Merge_Data.ipynb)**
+
 ## Questions We Would Like to Answer :memo:
 
 * Does year-built affect property value?
@@ -51,6 +54,8 @@ Unofficial API. US and CA real-time real estate data. Search by coordinates and 
 ## Data Preprocessing
 
 Pandas library is used to perform the data manipulation in Python. Pandas library is extremely powerful and helped us to simplify data cleaning tasks like data inspection, data fill, loading and saving data, mergers and join, duplicate, import data and much more.
+
+A folder containing three files with code to pre-process the data can be found here: **[link](./03_Code_and_Data/03_Data_Cleaning/)**
 
 
 ## Implementing machine learning model(s)
