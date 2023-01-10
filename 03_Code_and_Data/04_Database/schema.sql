@@ -1,0 +1,11 @@
+SELECT * FROM data_houston_tx_houses_merged_2023_1_8_12_2;
+
+SELECT * FROM htx_crime_stats_per_zipcode_2022;
+
+SELECT data_houston_tx_houses_merged_2023_1_8_12_2.*, htx_crime_stats_per_zipcode_2022.crimecount, htx_crime_stats_per_zipcode_2022.crimepercentage
+INTO htx_joined_data_house_crime
+FROM data_houston_tx_houses_merged_2023_1_8_12_2
+LEFT JOIN htx_crime_stats_per_zipcode_2022
+ON data_houston_tx_houses_merged_2023_1_8_12_2.zipcode = htx_crime_stats_per_zipcode_2022.zipcode;
+
+SELECT * FROM htx_joined_data_house_crime;
