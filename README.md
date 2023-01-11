@@ -9,7 +9,7 @@ The housing market is subject to the same economic laws of supply and demand as 
 
 We created a dashboard using HTML and CSS to display project overview and visualization via Tableau from data collected in PostgreSQL
 
-The Viz of the dataset can be viewed [here.](https://public.tableau.com/app/profile/neeraja.v6475/viz/HousePricesDistribution/HousePricesDistribution)
+The Viz of the dataset can be viewed [here.](https://public.tableau.com/app/profile/neeraja.v6475/viz/TableauHousePricesDistribution/Dashboard1?publish=yes)
 
 ## Communication Protocols :phone:
 
