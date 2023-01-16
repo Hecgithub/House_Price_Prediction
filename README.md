@@ -65,7 +65,7 @@ The data was merged using this code: **[link](./03_Code_and_Data/02_Merging/02_M
 
 Pandas library is used to perform the data manipulation in Python. Pandas library is extremely powerful and helped us to simplify data cleaning tasks like data inspection, data fill, loading and saving data, mergers and join, duplicate, import data and much more.
 
-A folder containing three files with code to pre-process the data can be found here: **[link](./03_Preprocessing/)**
+A folder containing three files with code to pre-process the data can be found here: **[link](./03_Code_and_Data/03_Preprocessing/)**
 
 
 ## Implementing machine learning model(s)
@@ -74,7 +74,9 @@ For this analysis, we used three different machine learning models, which are Li
 
 Machine learning is an iterative process. This first round of data exploration and model evaluation was an excellent start to gain insights quickly and get a reasonably good model prototype. This dataset has much structure, and further work is required to build a high-performing prediction model.
 
-The machine learning model code mockup can be found here: **[link](./ML_House_Prediction_Prices_Updated.ipynb)**
+The machine learning model code mockup can be found here: **[link](./03_Code_and_Data/05_ML_Model/ML_House_Prediction_Prices_Updated.ipynb)**.
+
+A machine learning mockup reading the input data from the Postgres dabatase can be found here: **[link](./03_Code_and_Data/05_ML_Model/05_ML_Model_read_from_JoinedDB.ipynb)**.
 
 ![image](https://user-images.githubusercontent.com/110510718/210690711-f92b45c7-96d5-4d60-8efe-1cee33e03f05.png)
 
