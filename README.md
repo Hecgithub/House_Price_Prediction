@@ -32,7 +32,8 @@ For effective peer-to-peer communication, slack was used for team channel creati
 
 PostgreSQL is used for data storage, processing, retrieval, and analysis to support finding insights from our Houston Houses Merged Data.
 
-A mockup of the code to write to the postgres data base can be found here: **[link](./03_Code_and_Data/04_Database/04_Database.ipynb)**
+A mockup of the code to write the house data to the postgres data base can be found here: **[link](./03_Code_and_Data/04_Database/04_Database_houseData.ipynb)**
+Similarly, the crime statistics table is saved to the data base using the following code: **[link](./03_Code_and_Data/04_Database/04b_Save_to_Database_crimeData.ipynb)**
 
 ## Resources/Data Sources
 
@@ -44,9 +45,12 @@ Unofficial API. US and CA real-time real estate data. Search by coordinates and 
 * Property details
 * Property Extended Search
 
-The code used to gather the data is here: **[link](./03_Code_and_Data/01_Get_Data_w_Property_Details/01_Get_Data_w_Property_Details.ipynb)**.
+Additionally, crime statistics per zip code for the city of Houston was obtained from the Houston police department website. 
 
-The data was merged using this code: **[link](./03_Code_and_Data/02_Merge_Data/02_Merge_Data.ipynb)**
+The code used to gather the house data is here: **[link](./03_Code_and_Data/01_Gathering/01a_Get_House_Data.ipynb.ipynb)**.
+The code used to gather the crime statistics data is here: **[link](./03_Code_and_Data/01_Gathering/01b_Get_Crime_Data.ipynb)**.
+
+The data was merged using this code: **[link](./03_Code_and_Data/02_Merging/02_Merge_Data.ipynb)**
 
 ## Questions We Would Like to Answer :memo:
 
@@ -59,12 +63,12 @@ The data was merged using this code: **[link](./03_Code_and_Data/02_Merge_Data/0
 
 Pandas library is used to perform the data manipulation in Python. Pandas library is extremely powerful and helped us to simplify data cleaning tasks like data inspection, data fill, loading and saving data, mergers and join, duplicate, import data and much more.
 
-A folder containing three files with code to pre-process the data can be found here: **[link](./03_Code_and_Data/03_Data_Cleaning/)**
+A folder containing three files with code to pre-process the data can be found here: **[link](./03_Preprocessing/)**
 
 
 ## Implementing machine learning model(s)
 
-For this analysis, we used three different machine learning models, which are Linear Regression, Random Forest, and XGBRegressor. In comparing the three models, the XGB Regressor model was far more accurate. The model had a 0.75% accuracy in predicting the house prices in the Huston, Texas, area. The top four features of importance are constructed area, lot area sqft, zip code, and year built.
+For this analysis, we used three different machine learning models, which are Linear Regression, Random Forest, and XGBRegressor. In comparing the three models, the XGB Regressor model was far more accurate. The model had a 0.75% accuracy in predicting the house prices in the Houston, Texas, area. The top four features of importance are constructed area, lot area sqft, zip code, and year built.
 
 Machine learning is an iterative process. This first round of data exploration and model evaluation was an excellent start to gain insights quickly and get a reasonably good model prototype. This dataset has much structure, and further work is required to build a high-performing prediction model.
 
