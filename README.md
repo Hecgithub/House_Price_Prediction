@@ -32,8 +32,9 @@ For effective peer-to-peer communication, slack was used for team channel creati
 
 PostgreSQL is used for data storage, processing, retrieval, and analysis to support finding insights from our Houston Houses Merged Data.
 
-A mockup of the code to write the house data to the postgres data base can be found here: **[link](./03_Code_and_Data/04_Database/04_Database_houseData.ipynb)**
-Similarly, the crime statistics table is saved to the data base using the following code: **[link](./03_Code_and_Data/04_Database/04b_Save_to_Database_crimeData.ipynb)**
+A mockup of the code to write the house data to the postgres data base can be found here: **[link](./03_Code_and_Data/04_Database/04_Database_houseData.ipynb)**.
+
+Similarly, the crime statistics table is saved to the data base using the following code: **[link](./03_Code_and_Data/04_Database/04b_Save_to_Database_crimeData.ipynb)**.
 
 ## Resources/Data Sources
 
