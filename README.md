@@ -49,6 +49,7 @@ Unofficial API. US and CA real-time real estate data. Search by coordinates and 
 Additionally, crime statistics per zip code for the city of Houston was obtained from the Houston police department website. 
 
 The code used to gather the house data is here: **[link](./03_Code_and_Data/01_Gathering/01a_Get_House_Data.ipynb)**.
+
 The code used to gather the crime statistics data is here: **[link](./03_Code_and_Data/01_Gathering/01b_Get_Crime_Data.ipynb)**.
 
 The data was merged using this code: **[link](./03_Code_and_Data/02_Merging/02_Merge_Data.ipynb)**
