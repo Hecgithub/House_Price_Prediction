@@ -12,6 +12,8 @@ Click the [link](https://docs.google.com/presentation/d/1uETFlwjuOJqFBKV2HDUrnMW
 
 We created a dashboard using HTML and CSS to display project overview and visualization via Tableau from data collected in PostgreSQL
 
+Click the [link](https://nino-gb.github.io) to see project Dashboard in a the team webpage.
+
 The Viz of the dataset can be viewed [here.](https://public.tableau.com/app/profile/neeraja.v6475/viz/TableauHousePricesDistribution/Dashboard1?publish=yes)
 
 ## Communication Protocols :phone:
