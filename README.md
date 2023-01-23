@@ -2,17 +2,19 @@
  
 ## Overview of the Project :scroll:
 
-The housing market is subject to the same economic laws of supply and demand as every other industry. When there are more buyers than sellers, the supply of houses goes down, and demand increases, making houses harder to buy and more expensive. In addition to the supply and demand of a market, the characteristics of units being sold also affect the selling prices of homes. A property's size, location, appearance, and other features can affect its demand and price. The state of the economy, interest rates, real income, and changes in the size of the population also influences the housing market. Over time, the price of houses fluctuates. If you want to buy a home, understanding what makes prices go up helps you know when and where you'll get the best price for a home. We aim to make our evaluations based on every basic parameter that is considered while determining the price of a housing unit. Using a machine learning model, we will make predictions to try to achieve a high accuracy score.
+The housing market is subject to the same economic laws of supply and demand as every other industry. When there are more buyers than sellers, the supply of houses goes down, and demand increases, making houses harder to buy and more expensive. In addition to the supply and demand of a market, the characteristics of units being sold also affect the selling prices of homes. A property's size, location, appearance, and other features can affect its demand and price. The state of the economy, crime rates and changes in the size of the population also influences the housing market. Over time, the price of houses fluctuates. If you want to buy a home, understanding what makes prices go up helps you know when and where you'll get the best price for a home. We aim to make our evaluations based on every basic parameter that is considered while determining the price of a housing unit. 
 
-## Link to Presentation
+Using a machine learning model, we will make predictions to try to achieve a high accuracy score and predict the house prices. 
+
+## Link to Presentation :desktop_computer:
 
 Click the [link](https://docs.google.com/presentation/d/1uETFlwjuOJqFBKV2HDUrnMW87aWxBhDpTHLkDI9pQpk/edit#slide=id.gc6f9e470d_0_0) to see the project presentation in Google Slides.
 
-## Link to Dashboard 
+## Link to Dashboard :bookmark_tabs:
 
-We created a dashboard using HTML and CSS to display project overview and visualization via Tableau from data collected in PostgreSQL
+We created a dashboard using HTML and CSS to display project overview and visualization via Tableau.
 
-Click the [link](https://nino-gb.github.io) to see project Dashboard in a the team webpage.
+Click the [link](https://nino-gb.github.io) to see project Dashboard in the team webpage.
 
 The Viz of the dataset can be viewed [here.](https://public.tableau.com/app/profile/neeraja.v6475/viz/TableauHousePricesDistribution/Dashboard1?publish=yes)
 
@@ -20,19 +22,22 @@ The Viz of the dataset can be viewed [here.](https://public.tableau.com/app/prof
 
 For effective peer-to-peer communication, slack was used for team channel creation/messaging and zoom for team meetings.
 
-## Technologies and Tools Used
+## Technologies and Tools Used :toolbox:
 
 * ![](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
 * ![](https://img.shields.io/badge/Jupyter_Notebook-orange?style=for-the-badge)
 * ![](https://img.shields.io/badge/Excel-green?style=for-the-badge)
 * ![](https://img.shields.io/badge/Visual_Studio_Code-blue?style=for-the-badge)
 * ![](https://img.shields.io/badge/PgAdmin-lightgrey?style=for-the-badge)
+* ![](https://img.shields.io/badge/Tableau-blue?style=for-the-badge)
+* ![](https://img.shields.io/badge/TabPy-orange?style=for-the-badge)
+* ![](https://img.shields.io/badge/HTML_&_CSS-green?style=for-the-badge)
 
 ## Database
 
 * ![](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge)
 
-PostgreSQL is used for data storage, processing, retrieval, and analysis to support finding insights from our Houston Houses Merged Data.
+PostgreSQL is used for data storage, processing, retrieval and analysis to support finding insights from our Houston Houses Merged Data.
 
 A mockup of the code to write the house data to the postgres data base can be found here: **[link](./03_Code_and_Data/04_Database/04_Database_houseData.ipynb)**.
 
@@ -58,17 +63,16 @@ The data was merged using this code: **[link](./03_Code_and_Data/02_Merging/02_M
 
 ## Questions We Would Like to Answer :memo:
 
-* Does year-built affect property value?
-* What home feature decreases the property value?
-* What home feature raises property value the most?
-* School quality/ranking have an impact in property value?
+* Can we predict the price of a house?
+* What are the features that can be used to predict the price of a house?
+* What are the main features that determine the price of a house?
+* What other external factors affect the price of a house?
 
 ## Data Preprocessing
 
 Pandas library is used to perform the data manipulation in Python. Pandas library is extremely powerful and helped us to simplify data cleaning tasks like data inspection, data fill, loading and saving data, mergers and join, duplicate, import data and much more.
 
 A folder containing three files with code to pre-process the data can be found here: **[link](./03_Code_and_Data/03_Preprocessing/)**
-
 
 ## Implementing machine learning model(s)
 
