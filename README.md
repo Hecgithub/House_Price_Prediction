@@ -6,7 +6,7 @@ The housing market is subject to the same economic laws of supply and demand as 
 
 Using a machine learning model, we will make predictions to try to achieve a high accuracy score and predict the house prices. 
 
-## Link to Presentation :desktop_computer:
+## Link to Presentation 🎦:
 
 Click the [link](https://docs.google.com/presentation/d/1uETFlwjuOJqFBKV2HDUrnMW87aWxBhDpTHLkDI9pQpk/edit#slide=id.gc6f9e470d_0_0) to see the project presentation in Google Slides.
 
@@ -43,7 +43,7 @@ A mockup of the code to write the house data to the postgres data base can be fo
 
 Similarly, the crime statistics table is saved to the data base using the following code: **[link](./03_Code_and_Data/04_Database/04b_Save_to_Database_crimeData.ipynb)**.
 
-## Resources/Data Sources
+## Resources/Data Sources 💼
 
 Data for analysis has been extracted from [RapidAPI.com](https://rapidapi.com/apimaker/api/zillow-com1)
 
@@ -68,13 +68,13 @@ The data was merged using this code: **[link](./03_Code_and_Data/02_Merging/02_M
 * What are the main features that determine the price of a house?
 * What other external factors affect the price of a house?
 
-## Data Preprocessing
+## Data Preprocessing 🔬
 
 Pandas library is used to perform the data manipulation in Python. Pandas library is extremely powerful and helped us to simplify data cleaning tasks like data inspection, data fill, loading and saving data, mergers and join, duplicate, import data and much more.
 
 A folder containing three files with code to pre-process the data can be found here: **[link](./03_Code_and_Data/03_Preprocessing/)**
 
-## Implementing machine learning model(s)
+## Implementing machine learning model(s) 🤖
 
 For this analysis, we used three different machine learning models, which are Linear Regression, Random Forest, and XGBRegressor. In comparing the three models, the XGB Regressor model was far more accurate. The model had a 0.75% accuracy in predicting the house prices in the Houston, Texas, area. The top four features of importance are constructed area, lot area sqft, zip code, and year built.
 
