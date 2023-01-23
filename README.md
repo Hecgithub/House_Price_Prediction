@@ -76,7 +76,7 @@ A folder containing three files with code to pre-process the data can be found h
 
 ## Implementing machine learning model(s) 🤖
 
-For this analysis, we used three different machine learning models, which are Linear Regression, Random Forest, and XGBRegressor. In comparing the three models, the XGB Regressor model was far more accurate. The model had a 0.75% accuracy in predicting the house prices in the Houston, Texas, area. The top four features of importance are constructed area, lot area sqft, zip code, and year built.
+For this analysis, we used three different machine learning models, which are Linear Regression, Random Forest, and XGBRegressor. In comparing the three models, the XGB Regressor model was far more accurate. The model had a 80% accuracy in predicting the house prices in the Houston, Texas, area. The top four features of importance are constructed area, lot area sqft, zip code, and year built.
 
 Machine learning is an iterative process. This first round of data exploration and model evaluation was an excellent start to gain insights quickly and get a reasonably good model prototype. This dataset has much structure, and further work is required to build a high-performing prediction model.
 
@@ -89,4 +89,14 @@ A machine learning mockup reading the input data from the Postgres dabatase can 
 
 ## Results of Analysis
 
+The supervised machine learning algorithms are used to predict the final outcome since we are using data from previous outcomes.
+The three regression models were trained with the data and the calculated accuracy score details of each model is as below:
+* The Linear Regression Model had an accuracy score of 51%.
+* The Random Forest Regression model had an accuracy score of 67%.
+* The XGBRegressor(Extreme Gradient Boost) model had an accuracy score of 80%.
+
+The XGBRegressor model was the best in predicting the house prices. To know the features that held more weightage in predicting the prices were plotted.
+
 ## Project Summary
+
+After implementing three supervised machine learning algorithms, the XGBRegressor had a good accuracy score of 80%. The important features were  
