@@ -49,7 +49,7 @@ Data for analysis has been extracted from [RapidAPI.com](https://rapidapi.com/ap
 
 #### Zillow.com API Documentation (apimaker) | RapidAPI
 
-Unofficial API. US and CA real-time real estate data. Search by coordinates and MLS. Get similar properties for sale or sold property, Zestimate (rent estimate) and other data from Zillow. This site allows us to explore and extract data from two APIs endpoints:
+Unofficial API. US and CA real-time real estate data. Search by coordinates and MLS. This site allows us to explore and extract data from two APIs endpoints:
 * Property details
 * Property Extended Search
 
@@ -87,7 +87,7 @@ A machine learning mockup reading the input data from the Postgres dabatase can 
 ![image](https://user-images.githubusercontent.com/110510718/210690711-f92b45c7-96d5-4d60-8efe-1cee33e03f05.png)
 
 
-## Results of Analysis
+## Results of Analysis :clipboard:
 
 The supervised machine learning algorithms are used to predict the final outcome since we are using data from previous outcomes.
 The three regression models were trained with the data and the calculated accuracy score details of each model is as below:
@@ -95,8 +95,27 @@ The three regression models were trained with the data and the calculated accura
 * The Random Forest Regression model had an accuracy score of 67%.
 * The XGBRegressor(Extreme Gradient Boost) model had an accuracy score of 80%.
 
-The XGBRegressor model was the best in predicting the house prices. To know the features that held more weightage in predicting the prices were plotted.
+The XGBRegressor model was the best in predicting the house prices. The features that held more weightage in predicting the prices were plotted.
 
-## Project Summary
+## Project Summary :books:
 
-After implementing three supervised machine learning algorithms, the XGBRegressor had a good accuracy score of 80%. The important features were  
+* ### The answers we were seeking for the questions:
+
+ **Can we predict the price of a house?**
+
+ Yes, After implementing three supervised machine learning algorithms, the XGBRegressor had a good accuracy score of 80% in predicting the house prices.
+
+ **What are the features that can be used to predict the price of a house?**
+
+ The internal housing features like bedrooms, bathrooms, constructed area, lot size and external features like locality, crime and presence of schools were used in predicting the house price.
+
+ **What are the main features that determine the price of a house?**
+
+ The important features in determining the final outcome was plotted. They are constructed area, lot area, year built, average school distance, zip code, crime     percentage, bedrooms, bathrooms and average school rating.
+
+ **What other external factors affect the price of a house?**
+ 
+ Apart from the basic internal housing units, the external factors like crime rates, locality and nearby schools influence the pricing of the house.
+
+* The visualization of the dataset is done in Tableau. An Interactive map with filters has been designed to provide a good insight of the dataset(distribution of the houses).
+* Using TabPy, the machine learning model was trained with user selected features and the predicted outcome was displayed in Tableau dashboard.
