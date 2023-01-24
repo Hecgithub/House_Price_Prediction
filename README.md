@@ -76,7 +76,7 @@ A folder containing three files with code to pre-process the data can be found h
 
 ## Implementing machine learning model(s) 🤖
 
-For this analysis, we used three different machine learning models, which are Linear Regression, Random Forest, and XGBRegressor. In comparing the three models, the XGB Regressor model was far more accurate. The model had a 80% accuracy in predicting the house prices in the Houston, Texas, area. After plotting to find the features importance, we found the top four are constructed area, lot area sqft, zip code, and year built.
+For this analysis, we used three different machine learning models, which are Linear Regression, Random Forest, and XGBRegressor. In comparing the three models, the XGB Regressor model was far more accurate. The model had a 80% accuracy in predicting the house prices in the Houston, Texas, area. After plotting to find the features importance, we found the top five are constructed area, lot area sqft, zip code, year built and average school distance.
 
 ![image](https://user-images.githubusercontent.com/111020934/214444466-4d408253-b8de-4cf0-a007-d3b039373b02.png)
 
