@@ -76,16 +76,15 @@ A folder containing three files with code to pre-process the data can be found h
 
 ## Implementing machine learning model(s) 🤖
 
-For this analysis, we used three different machine learning models, which are Linear Regression, Random Forest, and XGBRegressor. In comparing the three models, the XGB Regressor model was far more accurate. The model had a 80% accuracy in predicting the house prices in the Houston, Texas, area. The top four features of importance are constructed area, lot area sqft, zip code, and year built.
+For this analysis, we used three different machine learning models, which are Linear Regression, Random Forest, and XGBRegressor. In comparing the three models, the XGB Regressor model was far more accurate. The model had a 80% accuracy in predicting the house prices in the Houston, Texas, area. After plotting to find the features importance, we found the top four are constructed area, lot area sqft, zip code, and year built.
+
+![image](https://user-images.githubusercontent.com/111020934/214444466-4d408253-b8de-4cf0-a007-d3b039373b02.png)
 
 Machine learning is an iterative process. This first round of data exploration and model evaluation was an excellent start to gain insights quickly and get a reasonably good model prototype. This dataset has much structure, and further work is required to build a high-performing prediction model.
 
 The machine learning model code mockup can be found here: **[link](./03_Code_and_Data/05_ML_Model/ML_House_Prediction_Prices_Updated.ipynb)**.
 
 A machine learning mockup reading the input data from the Postgres dabatase can be found here: **[link](./03_Code_and_Data/05_ML_Model/05_ML_Model_read_from_JoinedDB.ipynb)**.
-
-![image](https://user-images.githubusercontent.com/110510718/210690711-f92b45c7-96d5-4d60-8efe-1cee33e03f05.png)
-
 
 ## Results of Analysis :clipboard:
 
