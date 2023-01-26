@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../style.css" />
+    <title>Machine_Learning</title>
+    <style>
+        img{
+        height: 500px;
+        width: 450px;
+        margin-top: 40px;
+        }
+        p{
+        color: darkgreen;
+        margin-top: 100px;
+        font-size:25px;
+        }
+   </style>
+   <script>
+      function HM(){
+          document.getElementById('myImage')
+          .src='imagesnav/heatmap.png';
+          document.getElementById('message')
+          .innerHTML='<strong>Heatmap</strong><br>For our initial analysis we use a heatmap to represent data coefficients and visualize the strength of correlation among variables. The heatmap help us to find features that are best for Machine Learning Model building. We were able to find  patterns and gives a perspective of depth.';
+      }
+
+      function LR(){
+          document.getElementById('myImage')
+          .src='imagesnav/LR.png';
+          document.getElementById('message')
+          .innerHTML="<strong>Linear Regression Model</strong><br> Linear Regression is an algorithm of supervised machine learning in which the predicted output is continuous with having a constant slope. It is used to predict the values in a continuous range instead of classifying the values in the categories. For this model we used the data to optimse the sale prices of the properties based on important factors such as area, bedrooms, parking, etc. To identify the variables affecting house prices, zipcode, number of rooms, bathrooms, yearbuilt, school rating, etc.<br>This model had a 0.51% accuracy in predicting the house prices in the Houston, Texas, area.';";
+      }
+       
+      function RF(){
+          document.getElementById('myImage')
+          .src="imagesnav/RF.png";
+          document.getElementById('message')
+          .innerHTML='<strong>Random Forest Model</strong><br>This model can perform both regression and classification tasks. A random forest produces good predictions that can be understood easily. It can handle large datasets efficiently. The random forest algorithm provides a higher level of accuracy in predicting outcomes over the decision tree algorithm<br>This model had a 0.67% accuracy in predicting the house prices in the Houston, Texas, area.'
+      }
+      function XGB(){
+          document.getElementById('myImage')
+          .src="imagesnav/ x.png";
+          document.getElementById('message')
+          .innerHTML='<strong>XGB Regressor Model</strong><br>XGBoost offers a few technical advantages over other gradient boosting approaches, including a more direct route to the minimum error, converging more quickly with fewer steps, and simplified calculations to improve speed and lower compute costs.<br>This model had a 0.80% accuracy in predicting the house prices in the Houston, Texas, area.';
+      }
+   </script>
+  </head>
+  <body>
+    <div id="navbar">
+      <a href="#default" id="logo">Corpus Christi Team</a>
+      <div id="navbar-right">
+        <a href="../index.html">Home</a>
+        <a href="about.html">About</a>  
+        <a class="active"href="machine.html">Machine&nbspLearning</a>
+        <a href="tableau.html">Tableau&nbspMap</a>
+        <a href="contact.html">Contact</a>
+      </div>
+    </div>   
+  </div>
+        <center>
+            <p id="message">
+              <strong>Implementing Machine Learning model(s)</strong><br>The data exploration and model evaluation was an excellent start to gain insights quickly and get a reasonably good model prototype.This dataset has much structure, and further work is required to build a high-performing prediction model.<br>For this analysis, we used three different machine learning models, which are Linear Regression, Random Forest, and XGBRegressor.
+            </p>
+            <img  id="myImage"
+                src="imagesnav/heatmap.png"  >
+            <div class="button">
+              <button class="btn btn-warning"
+                onclick=HM();>
+                Heatmap
+              </button>
+              <button class="btn btn-warning"
+                onclick=LR();>
+                Linear Regression 
+              </button>
+              <button  class="btn btn-success"
+                onclick=RF();>
+                Random Forest
+              </button>
+              <button  class="btn btn-success"
+                onclick=XGB();>
+                XGB
+              </button>
+          </div>
+        </center>
+    </body>
+</html>
+   
+
+   
+  
+
+
+  
